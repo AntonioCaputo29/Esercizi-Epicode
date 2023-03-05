@@ -1,0 +1,39 @@
+html{
+    text-align: center;
+    font-size: 0,8em;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+h3{
+    height: 50px;
+    border-top: 1px solid yellow;
+    text-align: center;
+    background-color: rgb(206, 206, 195);
+}
+
+nav {
+    background-color: #fefbf1;
+    border-top: 3px solid #ffd997;
+    color: #004d4d;
+    margin-top: 10px;
+    padding: 0.1rem;
+    font-size: 16px;
+}
+.ul{
+    display:inline-block;
+    text-align: center;
+}
+
+    .method{
+        display: inline-block;
+        text-align: center;
+    }
+ol{
+    text-align: center;
+}
+
+
+
+
+ 

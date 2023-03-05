@@ -1,0 +1,39 @@
+/* Your styles here */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins&family=Roboto:wght@400;700&display=swap');
+#logo{
+    background-color: black;
+    height: 10em;
+}
+body{
+    text-align: center;
+    color: #393d41;
+    font-family:'Open Sans', sans-serif;
+    font-size: 1,2rem;
+    line-height:1.65;
+}
+.Corsoweb{
+    background-image: url(/images/banner.jpg);
+}
+hr{
+    width: 40%;
+    color: white;
+}
+h1,h2{
+    color: #25a2c3; 
+    line-height: 1,5;
+    font-family: 'Montserrat (bold)';
+}
+.footerheading{
+color: white; 
+line-height: 1.5;
+font-family: 'Montserrat (bold)'
+}
+#bottone{
+    background-color: #f04c2f;
+    width: 160px;
+    margin: 0 auto;
+    padding: 0,8rem;
+    border-radius: 5px;
+    margin-bottom: 2em;
+}
+
