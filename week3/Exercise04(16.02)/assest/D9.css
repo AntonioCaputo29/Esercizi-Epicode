@@ -1,0 +1,18 @@
+body {
+background-image: url(/assest/cd345bc8-df93-44c3-95bb-24545b42fd85.jpg); 
+background-size: 35em;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+hr{
+    opacity: 0;
+}
+
+.myHeading {
+    color: red;
+  }
+
+  h2 {
+    color: red;
+  }

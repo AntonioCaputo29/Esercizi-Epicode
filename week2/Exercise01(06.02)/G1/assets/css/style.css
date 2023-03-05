@@ -1,0 +1,21 @@
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins&family=Roboto&display=swap');
+  body{
+    background-color: #415fe1;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    box-sizing: border-box;
+    padding-bottom: 20%;
+    padding-left: 15%;
+    }
+  .List{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+  }
+  .link{
+    color: white;
+    text-decoration: none;
+  }
+  .image{
+    width: 23%;
+  }
+  

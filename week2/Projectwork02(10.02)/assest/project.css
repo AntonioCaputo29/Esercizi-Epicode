@@ -1,0 +1,82 @@
+body{
+    text-align: center;
+    background-image: url(https://cdn.studenti.stbm.it/images/2022/06/07/numeri-fortunati-della-maturita-2022-orig.jpeg); 
+    background-size: 82rem 50rem;
+    padding-top: 9em;
+
+}
+
+.calculator{
+
+    margin: 0 auto;
+    margin-bottom: 10em;
+    width: 27%;
+    border-radius: 38%;
+    border-width: 3em;
+    border-color: white; 
+    background-color: whitesmoke;
+    background-position:center;
+    background-size: 82rem 50rem;
+    border-style: dashed;
+    padding: auto;
+    box-shadow: 10px 10px 10px 10px rgb(46, 40, 40);
+
+}
+
+
+h1{
+    background-color: black; 
+    border-radius: 100px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.operation {
+    margin-left: 2px;
+}
+
+.tasto {
+    background-color: black ;
+    color: white;
+    border-radius: 100px;
+    font-size: 22pt;
+    border: white;
+    margin: 4px 2px;
+    height: 40px;
+width: 46px;
+}
+
+.tastoo{
+    background-color: gray;
+    font-size: 22pt;
+    border-radius: 100px;
+    border: white;
+    margin: 4px 2px;
+    height: 40px;
+width: 46px;
+}
+
+.ugualetasto{
+    background-color: gray;
+    font-size: 22pt;
+    border-radius: 100px;
+    border: white;
+    margin: 4px 2px;
+    height: 40px;
+width: 210px;
+}
+
+.display {
+    background: black;
+    color: white;
+    border-radius: 100px;
+    font-size: 24pt;
+    border: white 2px;
+    margin: 4px 2px;
+    width: 204px;
+    height: 40px;            
+}
+.uguale {
+    width: 208px;
+}
