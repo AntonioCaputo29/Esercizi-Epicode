@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esercise</title>
+</head>
+<style>
+    body{
+        background-color: brown;
+    }
+    form{
+    text-align: center;
+    font-size: 50px;
+    }
+</style>
+<body>
+    <form>
+        <label for="petName">Nome del tuo animale:</label>
+        <input type="text" id="petName" name="petName"><br>
+
+        <label for="ownerName">Il tuo nome:</label>
+        <input type="text" id="ownerName" name="ownerName"><br>
+
+        <label for="species">Specie:</label>
+        <input type="text" id="species" name="species"><br>
+
+        <label for="breed">Razza:</label>
+        <input type="text" id="breed" name="breed"><br>
+
+        <button type="button" onclick="addPet()">Aggiungi</button>
+    </form>
+
+    <ul id="petList"></ul>
+</body>
+
+<script src="/exercize.js"></script>
+
+</html>
